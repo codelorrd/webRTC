@@ -1,0 +1,20 @@
+body {
+    position: relative;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+button {
+    display: block;
+    border: none;
+    background-color: cyan;
+    padding: .9rem 3rem;
+    position: absolute;
+    bottom: -70px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
